@@ -1,7 +1,7 @@
 {
-    "buildNumber":  88,
-    "releaseUrl":  "https://github.com/Nanos47300/Cmr47/releases/download/lapinou-debug-41237425255-1/CMR47-DEBUG-41237425255-1.apk",
+    "buildNumber":  89,
+    "releaseUrl":  "https://github.com/Nanos47300/Cmr47/releases/download/lapinou-debug-41238708205-1/CMR47-DEBUG-41238708205-1.apk",
     "packageName":  "fr.cmr47.cmr47",
-    "sha256":  "173ebc0a57e44fecee13f302a5a473477f69d2fdf34d5f20cdce634d95742969",
+    "sha256":  "10690c97e9918029ddba99c7fd43b22ae98d9288d8de5e68dc66f0e576e27632",
     "delivery":  "private_browser"
 }
